@@ -1,4 +1,4 @@
-package bc.ce.wcaquino;
+package bc.ce.wcaquino.servicos;
 
 import java.util.Date;
 
